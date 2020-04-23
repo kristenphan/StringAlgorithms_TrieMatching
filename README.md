@@ -33,6 +33,7 @@ Text before each new iteration.
 <br/>
 <br/>
 Task 1: Implement TrieMatching algorithm.
+<br/>
 Task 2: Extend TrieMatching algorithm so that it handles correctly cases when one of the patterns is a
 prefix of another one.
 <br/>
