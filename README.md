@@ -32,7 +32,9 @@ Matching Problem, we simply iterate PrefixTrieMatching |Text| times, chopping th
 Text before each new iteration.
 <br/>
 <br/>
-Task: Implement TrieMatching algorithm.
+Task 1: Implement TrieMatching algorithm.
+Task 2: Extend TrieMatching algorithm so that it handles correctly cases when one of the patterns is a
+prefix of another one.
 <br/>
 <br/>
 Input Format: The first line of the input contains a string Text, the second line contains an integer 𝑛,
